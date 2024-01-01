@@ -1,12 +1,7 @@
+Hey stranger, I'm Iosif 😊
 
+Let's see some things about me 😉
 
-<!--
-**Iostheod/Iostheod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently studying Electrical and Computer Engineer in Democritus University of Thrace.
-- 🌱 I’m currently learning web development skills.
-- 👯 I’m looking to collaborate on fronte-end development.
-
+- 🎓 I’m currently studying Electrical and Computer Engineering 💻 in Democritus University of Thrace🏛️.
+- 📖 I’m currently learning web development skills and want to focus on frontend development and especially on UX/UI design.
+- 🔭 I like sci-fi movies and love listening to music while working or walking alone.
