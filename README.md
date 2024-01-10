@@ -11,78 +11,25 @@ I'm Iosif 😊 </h1>
 <h3>👨‍💻Pragramming languages I am familiar with: </h3>
 
 <p>
-  <!-- C -->
-  ![C-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/021736cc-7aa7-4a37-b0a0-cd61d724a814)
-
-  <!-- C++ -->
-  ![C++-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/dec1e993-65de-4b1a-86d9-8041105b72a0)
-
-  <!-- HTML 5 -->
-  ![HTML5-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/18c22b71-8f1a-4a46-9869-abb8e18c15d9)
-
-  <!-- CSS -->
-  ![CSS-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/efc57780-8056-4a55-827e-682d8f70a649)
-
-  <!-- Javascript -->
-  ![JS-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/0df880e8-74f8-42eb-9214-941ffccbddc2)
-
+  <!-- C -->    <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/46e1ab78-44c9-4dcc-bba3-7bacf1794170" alt="c" height="30"/></a>                                                                                                                                                                             <!-- C++ -->    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/95e6a086-b967-412f-8d9e-4420a43f126b" alt="c++" height="30"/></a>                                                                                                                                                                           <!-- HTML 5 -->    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/0013a8fb-0b4f-463d-ba53-bdf3728c9cbc" alt="html5" height="30"/></a>                                                                                                                                                          <!-- CSS -->    <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/67cc7c18-439e-4f1c-b3c5-0659abee8e32" alt="css" height="30"/></a>                                                                                                                                                        <!-- Javascript -->    <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/3e7e8c31-74d4-40b0-a51a-aa85408e3fc9" alt="javascript" height="30"/></a>
+  
 </p>
 
 <h3>Tools I have used:</h3>
 
 <p>
-  <!-- Adobe illustrator -->
-  ![Illustrator-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/bd56d45b-b944-480e-847d-7c2b8847a605)
-
-  <!-- Adobe Photoshop -->
-  ![Photoshop-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/a557c0bf-8afa-4f46-b37d-faf3b3405bf8)
-
-  <!-- Adobe Xd -->
-  ![Xd-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/1d894e36-7a8e-4b1f-a640-c74d8bd44d32)
-
-  <!-- Figma -->
-  ![Figma-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/9781acb2-ccec-4b38-addf-9951afa16906)
+  <!-- Adobe illustrator -->    <a href="https://www.adobe.com/gr_en/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/eafe24dc-f8d7-43d3-a5b9-61bf69c04d36" alt="adobe illustrator" height="30"/></a>                                                                                                                      <!-- Adobe Photoshop -->    <a href="https://www.adobe.com/gr_en/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/a9719aba-8df1-44b0-b1fe-78c66f839afb" alt="adobe Photoshop" height="30"/></a>                                                                                                                                   <!-- Adobe Xd -->    <a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/8868736d-62d4-4c3e-8030-802f2db7e279" alt="adobe Xd" height="30"/></a>                                                                                                                                                   <!-- Figma -->    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/daf6d968-7fbe-4e65-970b-8fa14363a8fd" alt="figma" height="30"/></a>                                                                                                                                                                                     <!-- Git -->    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/0e9f46df-2858-49b1-9f73-1ac260989045" alt="git" height="30"/></a>                                                                                                                                                                                     <!-- Unity -->    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/98400e8d-0589-4d91-922c-a26080345b1c" alt="unity" height="30"/></a>                                                                                                                                                                                     <!-- Visual Studio Code -->    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/18bc02be-c789-4f72-9019-d2accf6420fb" alt="visual Studio Code" height="30"/></a>
   
-  <!-- Flutter -->
-  ![Flutter-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/35cb56a0-e2c5-43a8-a4eb-343332cc1510)
-
-  <!-- Git -->
-  ![Git-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/2064bd6c-c3d5-4842-aab7-ea0a5ff75ecc)
-
-
-  <!-- Unity -->
-  ![Unity-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/e3ecdeb8-d7f0-41aa-8d8b-a549f7065d19)
-  
-  <!-- Visual Studio Code -->
-  ![VSCode-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/b5c283ac-3b82-4bfb-809e-282766609ef3)
-
 </p>
 
 <h3>Tool environments I am familiar with:</h3>
 
 <p>
-  <!-- Discord -->
-  ![Discord-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/5ddcc3f5-ac11-48c9-bfb2-3c18424875bf)
-
-  <!-- Google Drive -->
-  ![GDrive-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/c41ce4e0-261c-4ae9-9a37-078396580da5)
-
-  <!-- Slack -->
-  ![Slack-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/1ed65a9b-3b89-4e49-aede-c1e904c0f420)
-
-  <!-- Trello -->
-  ![Trello-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/3c3202d7-82a7-4664-b917-9f400b09f9e8)
-
+  <!-- Discord -->    <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/dcfc042c-671a-433d-a69b-8bf0c672e08f" alt="discord" height="30"/></a>                                                                                                                                                                       <!-- Google Drive -->    <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/699cc44d-1b90-4519-b6fa-d86a9d16b80c" alt="google Drive" height="30"/></a>                                                                                                                                                    <!-- Slack -->    <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/c6a0259a-e66f-4cd3-940b-412bd3f0c23c" alt="slack" height="30"/></a>                                                                                                                                                                                     <!-- Trello -->    <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Iostheod/Iostheod/assets/95494049/8a0cb581-a5e4-4cc9-9189-2bd7c0376a62" alt="trello" height="30"/></a> 
 </p>
 
 <h3>Connect wiht me:</h3>
 
 <p>
-  <!-- LinkedIn -->  
-  ![LinkedIn-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/dd6573d0-7233-4d12-aa16-8276e1ff9838) <a href="https://www.linkedin.com/in/iosif-marios-theodorou-918a1b270/"> Iosif Marios Theodorou </a>
-  <!-- Facebook --> 
-  ![FB-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/83c6bd09-c72c-4507-a3a7-9f7f09285d2a) <a href="https://www.facebook.com/iostheod"> Ιωσηφ Θ. </a> 
-  <!-- Instagram --> 
-  ![Insta-Logo-for-Github](https://github.com/Iostheod/Iostheod/assets/95494049/b1dc4509-0028-4280-87f1-0a5ee09b1306) <a href="https://www.instagram.com/iosif_theodorou/"> iosif_theodorou </a>
+  <!-- LinkedIn -->    <img src="https://github.com/Iostheod/Iostheod/assets/95494049/96540652-21bd-4d3a-a21d-7747e2b24146" alt="linkedin" height="20"/> <a href="https://www.linkedin.com/in/iosif-marios-theodorou-918a1b270/">Iosif Marios Theodorou</a>                                                                                                                                            <!-- Facebook -->    <img src="https://github.com/Iostheod/Iostheod/assets/95494049/bda28ad3-f73e-41da-93ab-4c6d7f737c48" alt="facebook" height="20"/> <a href="https://www.facebook.com/iostheod">Ιωσηφ Θ.</a>                                                                                                                                                                              <!-- Instagram -->    <img src="https://github.com/Iostheod/Iostheod/assets/95494049/e1c9614f-c19a-4fdd-9f06-2a12357943be" alt="instagram" height="20"/> <a href="https://www.instagram.com/iosif_theodorou/">iosif_theodorou</a>
 </p>
-
